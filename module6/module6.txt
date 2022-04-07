@@ -1,0 +1,4 @@
+package module6 // import "."
+
+func FunctionForModule6GoDoc()
+    This is a comment for FunctionForModule6GoDoc
